@@ -201,7 +201,9 @@ body {
 }
 
 .features-link:focus-visible,
-.btn:focus-visible,
+.btn:focus-visible {
+  outline: .15em dotted var(--hover-bg);
+}
 .attribution-link:focus-visible {
   outline: .15em dotted var(--bright-blue);
 }
@@ -212,15 +214,31 @@ body {
 .attribution-link:focus-visible {
   outline-offset: .25em;
 }
+.features-link:focus-visible {
+  color: var(--hover-bg);
+}
+.btn:focus-visible {
+  color: var(--neutral);
+  background-color: var(--hover-bg);
+}
 
 @media (hover:hover) {
   .btn:hover {
     color: var(--neutral);
     background-color: var(--hover-bg);
   }
+  .features-link:hover {
+    color: var(--hover-bg);
+  }
   .features-link:hover::after,
   .attribution-link:hover::after {
     inline-size: 0;
     left: 0;
   }
+}
+
+.features-link:focus-visible::after,
+.attribution-link:focus-visible::after {
+  inline-size: 0;
+  left: 0;
 }
