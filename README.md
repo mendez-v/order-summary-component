@@ -40,7 +40,7 @@ Users should be able to:
 
 [Demo](https://mendez-v.github.io/order-summary-component/) 👀
 
-<!-- [Frontend Mentor](https://your-solution-url.com)👀 -->
+[Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-XoFkMRM1nU) 👀
 
 ## My process
 
