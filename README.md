@@ -74,7 +74,7 @@ Users should be able to:
 
 ### Useful resources
 
-🖼 Favicon - [Music](https://iconscout.com/3d-illustrations/music) by [Gandino J.](https://iconscout.com/contributors/jabar-gandino) on [IconScout](https://iconscout.com" class="text-underline font-size-sm)
+🖼 Favicon - [Music](https://iconscout.com/3d-illustrations/music) by [Gandino J.](https://iconscout.com/contributors/jabar-gandino) on [IconScout](https://iconscout.com)
 
 🖥 [Use these instead of vh](https://www.youtube.com/watch?v=ru3U8MHbFFI) by Kevin Powell
 
