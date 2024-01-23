@@ -38,9 +38,11 @@ Users should be able to:
 
 ### Links
 
-[Demo](https://mendez-v.github.io/order-summary-component/) 👀
+[Live Site](https://mendez-v.github.io/order-summary-component/) 👀
 
-[Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-XoFkMRM1nU) 👀
+[Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-XoFkMRM1nU) 👀
+
+[Challenge repository](https://github.com/mendez-v/frontend-mentor-challenges) 👀
 
 ## My process
 
